@@ -1,8 +1,8 @@
 {
-  "name": "react-first-step",
+  "name": "react-second-feedback",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://EvDeIv.github.io/react-first-step",
+  "homepage": "https://EvDeIv.github.io/react-second-feedback",
   "dependencies": {
     "@craco/craco": "^6.4.0",
     "@testing-library/jest-dom": "^5.15.0",
